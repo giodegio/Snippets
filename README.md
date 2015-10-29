@@ -1,4 +1,4 @@
 # Snippets
 My Code Snippets and Annotations
 
-GNU GENERAL PUBLIC LICENSE
+&copy; GNU GENERAL PUBLIC LICENSE
