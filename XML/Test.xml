@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- This is a Test -->
+
+<MyDoc>
+    <MyList>
+        <CarCollection>
+            <Car Id="3" Manufacturer="FIAT" Model="500" EnginePower="1200">
+                <Optionals>
+                    <Opt Id="2" Name="Accessorio 2"/>
+                    <Opt Id="1" Name="Accessorio 1"/>
+                    <Opt Id="3" Name="Accessorio 3"/>
+                </Optionals>
+            </Car>
+            <Car Id="5" Manufacturer="FORD" Model="KA" EnginePower="1300">
+                <Optionals>
+                    <Opt Id="2" Name="Accessorio 2"/>
+                    <Opt Id="1" Name="Accessorio 1"/>
+                    <Opt Id="3" Name="Accessorio 3"/>
+                </Optionals>
+            </Car>
+            <Car Id="1" Manufacturer="FERRARI" Model="F40" EnginePower="3000">
+                <Optionals>
+                    <Opt Id="2" Name="Accessorio 2"/>
+                    <Opt Id="1" Name="Accessorio 1"/>
+                    <Opt Id="3" Name="Accessorio 3"/>
+                </Optionals>
+            </Car>
+            <Car Id="8" Manufacturer="FORD" Model="FIESTA" EnginePower="1700">
+                <Optionals>
+                    <Opt Id="2" Name="Accessorio 2"/>
+                    <Opt Id="1" Name="Accessorio 1"/>
+                    <Opt Id="3" Name="Accessorio 3"/>
+                </Optionals>
+            </Car>
+            <Car Id="4" Manufacturer="FIAT" Model="PANDA" EnginePower="1000">
+                <Optionals>
+                    <Opt Id="2" Name="Accessorio 2"/>
+                    <Opt Id="1" Name="Accessorio 1"/>
+                    <Opt Id="3" Name="Accessorio 3"/>
+                </Optionals>
+            </Car>
+            <Car Id="2" Manufacturer="SAAB" Model="9000" EnginePower="2000">
+                <Optionals>
+                    <Opt Id="2" Name="Accessorio 2"/>
+                    <Opt Id="1" Name="Accessorio 1"/>
+                    <Opt Id="3" Name="Accessorio 3"/>
+                </Optionals>
+            </Car>
+            <Car Id="7" Manufacturer="FIAT" Model="DOBLO" EnginePower="1700">
+                <Optionals>
+                    <Opt Id="2" Name="Accessorio 2"/>
+                    <Opt Id="1" Name="Accessorio 1"/>
+                    <Opt Id="3" Name="Accessorio 3"/>
+                </Optionals>
+            </Car>
+            <Car Id="6" Manufacturer="VW" Model="GOLF" EnginePower="1800">
+                <Optionals>
+                    <Opt Id="2" Name="Accessorio 2"/>
+                    <Opt Id="1" Name="Accessorio 1"/>
+                    <Opt Id="3" Name="Accessorio 3"/>
+                </Optionals>
+            </Car>
+        </CarCollection>
+        <RecordCollection>
+            <Record Id="1" Name="Pippo"/>
+            <Record Id="2" Name="Pluto"/>
+            <Record Id="3" Name="Paperino"/>
+        </RecordCollection>
+    </MyList>
+</MyDoc>
